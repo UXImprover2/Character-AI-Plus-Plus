@@ -30,21 +30,21 @@ Character.AI++ is made for power users who want a cleaner, more personalized, an
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1200px-Firefox_logo%2C_2019.svg.png" width="24" /> <br> Firefox
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1200px-Firefox_logo%2C_2019.svg.png" width="30" /> <br> Firefox
       </td>
       <td align="center">None</td>
       <td align="center"><a href="https://addons.mozilla.org/en-US/firefox/addon/character-ai-plus-plus/">Download</a></td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/768px-Google_Chrome_icon_%28February_2022%29.svg.png" width="24" /> <br> Chrome
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/768px-Google_Chrome_icon_%28February_2022%29.svg.png" width="30" /> <br> Chrome
       </td>
       <td align="center">Download manifest v3 version</td>
       <td align="center"><a href="https://github.com/UXImprover2/Character-AI-Plus-Plus/releases">Download</a></td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Chromium_Logo.svg" width="24" /> <br> All Chromium browsers
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Chromium_Logo.svg" width="30" /> <br> All Chromium browsers
       </td>
       <td align="center">Download manifest v3 version</td>
       <td align="center"><a href="https://github.com/UXImprover2/Character-AI-Plus-Plus/releases">Download</a></td>
