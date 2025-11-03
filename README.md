@@ -23,4 +23,4 @@ Character.AI++ is made for power users who want a cleaner, more personalized, an
 |---------|-------|---------|
 | ![Firefox](https://upload.wikimedia.org/wikipedia/commons/3/3e/Firefox_Logo%2C_2019.png) Firefox | None | [Download](https://addons.mozilla.org/en-US/firefox/addon/character-ai-plus-plus/) |
 | ![Chrome](https://upload.wikimedia.org/wikipedia/commons/8/87/Google_Chrome_icon_%282011%29.png) Chrome | Download manifest v3 version | [Download](https://github.com/UXImprover2/Character-AI-Plus-Plus/releases) |
-| ![Chromium](https://upload.wikimedia.org/wikipedia/commons/0/0b/Chromium_Logo_2018.svg) All Chromium browsers | Download manifest v3 version | [Download](https://github.com/UXImprover2/Character-AI-Plus-Plus/releases) |
+| ![Chromium](https://upload.wikimedia.org/wikipedia/commons/2/28/Chromium_Logo.svg) All Chromium browsers | Download manifest v3 version | [Download](https://github.com/UXImprover2/Character-AI-Plus-Plus/releases) |
