@@ -44,7 +44,7 @@ Character.AI++ is made for power users who want a cleaner, more personalized, an
     </tr>
     <tr>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Chromium_Logo_2018.svg" width="24" /> <br> All Chromium browsers
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Chromium_Logo.svg" width="24" /> <br> All Chromium browsers
       </td>
       <td align="center">Download manifest v3 version</td>
       <td align="center"><a href="https://github.com/UXImprover2/Character-AI-Plus-Plus/releases">Download</a></td>
